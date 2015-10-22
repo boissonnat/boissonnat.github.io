@@ -1,0 +1,36 @@
+
+.category-tags {
+  .label, .label-default {
+    background-color: $gray-lightest;
+    border: solid 1px $gray-lighter;
+    a {
+      color: $gray-dark;
+      font-size: 12px;
+    }
+  }
+}
+
+.category-tags .label-recipe {
+  background-color: $red-lighter;
+}
+
+.category-tags .label-side-project {
+  background-color: $green-lighter;
+}
+
+.category-tags .label-professional-activity {
+  background-color: $blue-lighter;
+}
+
+.tag {
+  .posts {
+    .post {
+      padding: 0;
+      padding-bottom: $line-height * 0.5;
+      margin-bottom: $line-height * 1.5;
+      margin-top: $line-height * 1.5;
+      border-left: none;
+      border-bottom: solid 2px $gray-lighter;
+    }
+  }
+}

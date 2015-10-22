@@ -1,0 +1,67 @@
+.posts {
+  .post {
+    color: $gray-light;
+    font-weight: 300;
+    padding-left: $line-height * 0.5;
+    padding-bottom: $line-height * 0.5;
+    padding-top: $line-height * 0.2;
+    margin-bottom: $line-height * 1.5;
+    border-left: solid 5px $gray-lighter;
+
+    .post-duration {
+      font-size: 0.8rem;
+      font-weight: normal;
+    }
+
+    .post-subtitle {
+      font-size: 1rem;
+      color: $gray-darker;
+      margin-top: $line-height * 0.3;
+      margin-bottom: $line-height * 0.3;
+    }
+  }
+  .post:last-child {
+    border-bottom: none;
+  }
+
+  a.post-title {
+    color: $gray-dark;
+    text-decoration: none;
+  }
+  a.recipe:before {
+    font-family: FontAwesome;
+    content: "\f0c6";
+    padding-right: $line-height * 0.2;
+    color: $red-light;
+  }
+
+  a.professional-activity:before {
+    font-family: FontAwesome;
+    content: "\f219";
+    padding-right: $line-height * 0.2;
+    color: $blue-light;
+  }
+
+  a.side-project:before {
+    font-family: FontAwesome;
+    content: "\f126";
+    padding-right: $line-height * 0.2;
+    color: $green-light;
+  }
+
+}
+
+.post {
+  .post-duration {
+    font-size: 1rem;
+    font-weight: normal;
+  }
+
+  .post-subtitle {
+    font-size: 1.2rem;
+    color: $gray-darker;
+    margin-top: $line-height * 0.3;
+    margin-bottom: $line-height * 0.3;
+  }
+}
+

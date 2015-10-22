@@ -1,0 +1,48 @@
+.resume {
+  h1 {
+    margin-top:  $line-height * 2;
+  }
+  h2, h3, h4 {
+    margin-bottom: 0;
+    padding: 0;
+  }
+  h2 {
+    font-size: 21px;
+    border: none;
+  }
+  h3 {
+    font-size: 18px;
+    color: $gray-dark;
+    margin-top: $line-height * 0.4;
+    margin-bottom: $line-height * 0.2;
+  }
+  p {
+    margin: 0;
+    margin-bottom: $line-height;
+  }
+}
+
+.resume-items {
+  .resume-item {
+    border-bottom: solid 1px $gray-lighter;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+
+    .resume-item-header {
+      padding-bottom: 25px;
+      .duration {
+        float: right;
+      }
+      .acronyme {
+        font-style: italic;
+        font-size: 18px;
+        color: $gray-light;
+      }
+    }
+    .resume-item-body {
+      h2 {
+        font-size: 21px;
+      }
+    }
+  }
+}

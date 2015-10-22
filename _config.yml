@@ -1,0 +1,18 @@
+# Syntax highlighting
+highlighter:         pygments
+
+# Permalinks
+permalink:           /:categories/:title
+relative_permalinks: true
+
+# Setup
+baseurl:             ""
+title:               Alexis Boissonnat personal website
+tagline:             My personal website
+url:                 http://boissonnat.github.io
+markdown:            kramdown
+
+# Assets
+sass:
+  sass_dir: _scss
+  style: compressed

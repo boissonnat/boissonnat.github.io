@@ -1,0 +1,26 @@
+.header {
+  padding: 30px 0;
+  border-bottom: solid 1px $gray-lighter;
+  a {
+    color: $gray-dark;
+  }
+  a:hover {
+    text-decoration: none;
+    border-bottom: none;
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+    padding: 0;
+    font-weight: 300;
+  }
+
+  a.nav-link{
+    background: none;
+    color: $gray-dark;
+    font-size: 21px;
+    padding: 8px 0 0 30px;
+  }
+}

@@ -1,0 +1,21 @@
+.about {
+  h2 {
+    border: none;
+  }
+
+  img {
+    @extend .img-responsive;
+    @extend .img-circle;
+    box-shadow: none;
+  }
+
+  .info {
+    margin-top: $line-height;
+    dl {
+      font-size: 14px;
+      margin-top: $line-height;
+    }
+  }
+
+
+}

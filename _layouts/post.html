@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="post">
+
+    <h1>
+        {{ page.title }}
+    </h1>
+
+    <div class="post-duration">
+        <i class="fa fa-clock-o"></i>
+        {% if page.duration %}
+            {{ page.duration }}
+        {% else %}
+            {{ page.date | date: "%B %d, %Y" }}
+        {% endif %}
+    </div>
+
+    <div class="post-subtitle">
+        {{ page.subtitle }}
+    </div>
+    <div class="category-tags">
+            <span class="label label-default label-{{ page.category }}">
+                    <a href="/categories/{{ page.category }}">#{{ page.category | capitalize | replace: '-', ' '}}</a>
+                </span>
+        {% for tag in page.tags %}
+                            <span class="label label-default">
+                                <a href="/tags/{{ tag }}">#{{ tag | capitalize | replace: '-', ' ' }}</a>
+                            </span>
+        {% endfor %}
+    </div>
+
+    <article class="post-content">
+        {{ content }}
+    </article>
+
+</div>

@@ -1,0 +1,90 @@
+body {
+  font-size: 21px;
+  color: $gray;
+  line-height: 1.2;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+  color: $gray-dark;
+  margin: 30px 0 0;
+}
+
+h1 {
+  font-size: 34px;
+  margin-bottom: $line-height * 0.2;
+}
+
+h1.categories-tags {
+  background-color: $gray-lightest;
+  border: solid 1px $gray-lighter;
+  padding: 5px 10px;
+  display: inline-block;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+h1.label-recipe {
+  background-color: $red-lighter;
+}
+h1.label-side-project {
+  background-color: $green-lighter;
+}
+h1.label-professional-activity {
+  background-color: $blue-lighter;
+}
+
+a:hover {
+  border-bottom: solid 1px $gray-light;
+  text-decoration: none;
+}
+
+.subtitle {
+  color: $gray-light;
+  font-size: 18px;
+  padding:0;
+  margin-bottom: 30px;
+  span.slogan {
+    display: block;
+    font-size: 18px;
+    font-style: italic ;
+  }
+}
+
+h2 {
+  font-size: 28px;
+  border-bottom: solid 1px $gray-light;
+  margin-bottom: $line-height * 0.5;
+  padding-bottom: $line-height * 0.2;
+}
+
+h3 {
+  font-size: 21px;
+  color: $gray;
+}
+h4 {
+  font-size: 18px;
+}
+
+blockquote {
+ @extend  .blockquote;
+  p {
+    margin: 0;
+  }
+}
+
+img {
+  @extend .img-responsive;
+  @extend .img-thumbnail;
+  -moz-box-shadow: 2px 2px 10px 0px #aaaaaa;
+  -webkit-box-shadow: 2px 2px 10px 0px #aaaaaa;
+  -o-box-shadow: 2px 2px 10px 0px #aaaaaa;
+  box-shadow: 2px 2px 10px 0px #aaaaaa;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#aaaaaa, Direction=134, Strength=10);
+}
+
+p {
+  margin-bottom: $line-height;
+  margin-top: $line-height;
+}

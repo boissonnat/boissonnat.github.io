@@ -1,0 +1,15 @@
+.category {
+  .posts {
+    .post {
+      padding: 0;
+      padding-bottom: $line-height * 0.5;
+      margin-bottom: $line-height * 1.5;
+      margin-top: $line-height * 1.5;
+      border-left: none;
+      border-bottom: solid 2px $gray-lighter;
+    }
+    .post:last-child {
+      border-bottom: none;
+    }
+  }
+}

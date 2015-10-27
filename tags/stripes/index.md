@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: Stripes
 tag: stripes
 ---
 

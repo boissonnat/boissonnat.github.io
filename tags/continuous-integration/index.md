@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: Continuous integration
 tag: continuous-integration
 ---
 

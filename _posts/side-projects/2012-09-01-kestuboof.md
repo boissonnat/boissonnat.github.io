@@ -28,10 +28,10 @@ tags:
 
 ![kestuboof]({{ base.url }}/images/kestuboof.png)
 
-### Resources
+#### Resources
 
 You can have a lunch here : [http://www.lecafedesophia.com/](https://http://www.lecafedesophia.com/)
 
-### Technologies
+#### Technologies
 
 Java/JEE, Groovy, Woko, Stripes, Hibernate, JUnit, MySql, Javascript, JQuery, Jenkins  

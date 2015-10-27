@@ -1,5 +1,5 @@
 body {
-  font-size: 21px;
+  font-size: 1.1rem;
   color: $gray;
   line-height: 1.2;
   font-weight: 300;
@@ -63,8 +63,10 @@ h3 {
   font-size: 21px;
   color: $gray;
 }
+
 h4 {
   font-size: 18px;
+  margin-bottom: $line-height * 0.5;
 }
 
 blockquote {

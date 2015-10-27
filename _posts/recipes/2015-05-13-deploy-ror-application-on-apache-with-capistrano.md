@@ -11,7 +11,7 @@ tags:
 
 ---
 
-This tutorial suppose that you already have a working installation of an Apache server.
+This tutorial assumes that you already have a working installation of an Apache server.
 
 ### Install Phusion Passenger
 
@@ -24,7 +24,7 @@ $> gem install passenger
 $> passenger-install-apache2-module
 {% endhighlight %}
 
-Then you will need to update your apache configuration (has said in the passenger instructions).
+Then you will need to update your apache configuration (as in the passenger instructions).
 
 First, create a file called ```/etc/apache2/mods-available/passenger.load``` and input the following code :
 
@@ -119,7 +119,7 @@ $> cap install
 
 #### Capistrano settings
 
-Capistrano is very well documented. By following the comments, first edit your ```/config/deploy.rb``` and then your specifics environments settings in ```config/deploy/my_env.rb```
+Capistrano is very well documented. By following the comments, first edit your ```/config/deploy.rb``` and then your specific environments settings in ```config/deploy/my_env.rb```
 
 #### Setup Apache
 

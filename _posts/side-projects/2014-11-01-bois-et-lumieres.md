@@ -23,10 +23,10 @@ He is probably the most conscientious craftsman I ever met, he fully deserved my
 
 ![boislumieres]({{ base.url }}/images/boislumieres.png)
 
-### Resources
+#### Resources
 
 [www.bois-et-lumieres.fr](http://www.bois-et-lumieres.fr/)
 
-### Technologies
+#### Technologies
 
 NodeJS, Express, Jade, Bootstrap, Less  

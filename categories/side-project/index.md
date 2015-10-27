@@ -1,5 +1,6 @@
 ---
 layout: category
+title: Side projects
 category: side-project
 ---
 

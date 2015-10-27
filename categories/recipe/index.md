@@ -1,5 +1,6 @@
 ---
 layout: category
+title: Recipes
 category: recipe
 ---
 

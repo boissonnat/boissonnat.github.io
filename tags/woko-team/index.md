@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: Woko team
 tag: woko-team
 ---
 

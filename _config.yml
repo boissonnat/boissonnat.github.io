@@ -7,7 +7,7 @@ relative_permalinks: true
 
 # Setup
 baseurl:             ""
-title:               Alexis Boissonnat personal website
+title:               Alexis Boissonnat
 tagline:             My personal website
 url:                 http://boissonnat.github.io
 markdown:            kramdown

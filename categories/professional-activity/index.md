@@ -1,5 +1,6 @@
 ---
 layout: category
+title: Professional activities
 category: professional-activity
 ---
 

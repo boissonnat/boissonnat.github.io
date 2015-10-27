@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: CSS
 tag: css
 ---
 

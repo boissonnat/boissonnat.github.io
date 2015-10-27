@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: Ruby on Rails
 tag: ruby-on-rails
 ---
 

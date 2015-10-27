@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: AgularJS
 tag: angularjs
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: Continuous delivery
 tag: continuous-delivery
 ---
 

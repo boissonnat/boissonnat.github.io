@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: Bootstrap
 tag: bootstrap
 ---
 

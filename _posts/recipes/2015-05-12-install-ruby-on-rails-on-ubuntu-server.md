@@ -10,7 +10,7 @@ tags:
 
 ---
 
-This article show how to install ```ruby``` and ```rails``` on Ubuntu through ```rbenv``` 
+This article shows how to install ```ruby``` and ```rails``` on Ubuntu through ```rbenv``` 
 
 ## Install ruby
 
@@ -28,7 +28,7 @@ $> sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libr
 
 ### Install rbenv
 
-We prefer here using ```rbenv``` instead of ```RVM``` to its permissions management. 
+We prefer here to use ```rbenv``` instead of ```RVM``` to its permissions management. 
 Let's clone rbenv in ```home_dir```
 
 {% highlight bash %}

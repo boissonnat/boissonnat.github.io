@@ -1,5 +1,6 @@
 ---
 layout: tag
+title: Agile
 tag: agile
 ---
 

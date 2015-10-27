@@ -24,10 +24,10 @@ Fully extensible.
 I wrote this Groovy Script to speed up Stripes apps bootstrapping. By answering a few questions, this command line
 tool will generate a working 'Hello World' app with your exact needs.
 
-### Resources
+#### Resources
 
 Docs available on [GitHub](https://github.com/boissonnat/stripes-generator) 
 
-### Technologies
+#### Technologies
 
 Groovy, Maven, JUnit

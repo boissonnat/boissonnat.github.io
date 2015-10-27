@@ -27,10 +27,10 @@ issue tracking based on the GitHub simplicity.
 
 This app was my first trip with Ruby on Rails, I fall in love immediately !
 
-### Resources
+#### Resources
 
-You can give a try to here [www.allutrack.herokuapp.com](https://allutrack.herokuapp.com)
+You can give a try to here [allutrack.herokuapp.com](http://allutrack.herokuapp.com)
 
-### Technologies
+#### Technologies
 
 Ruby, Ruby on Rails, Bootstap, Github, Heroku 

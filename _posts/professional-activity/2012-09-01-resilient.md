@@ -2,7 +2,7 @@
 layout: post
 title:  "Resilient"
 date: 2012-09-01
-subtitle: ""
+subtitle: "Districts' energy trading optimization"
 duration: "Sept 2012 - Nov 2015"
 category: professional-activity
 tags: 

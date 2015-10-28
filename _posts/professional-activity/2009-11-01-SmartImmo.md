@@ -2,7 +2,7 @@
 layout: post
 title:  "SmartImmo"
 date: 2009-11-01
-subtitle: ""
+subtitle: "Reduce operating costs and energy consumption in commercial buildings"
 duration: "Nov 2009 - Sep 2011"
 category: professional-activity
 tags: 

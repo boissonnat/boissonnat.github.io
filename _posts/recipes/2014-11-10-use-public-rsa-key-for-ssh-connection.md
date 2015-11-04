@@ -3,13 +3,12 @@ layout: post
 title: "Use public RSA key for SSH connection"
 date:   2014-11-10 10:28:30
 category: recipe
-tags: 
+tags:
 - devops
 
 ---
 
-It is really useful to use a SSH connexion through public key instead of typing password each time 
-(especially if you are using a very complex password).
+It is really useful to use a SSH connection through public key instead of having to type the password each time (especially if you are using a very complex password).
 
 ### Create a .ssh folder on your server
 
@@ -23,15 +22,15 @@ $> mkdir ~/.ssh
 
 ### Copy your ssh key on the server
 
-Then, you need to copy your public RSA key on the server. Remember that public key belongs to a machine. 
-If you plan to connect to your server through several computers, you will need to reproduce this step for each one of them.
+Then, you need to copy your public RSA key on the server. Remember that this public key belongs to a machine.
+If you plan on connecting to your server through several computers, you will need to reproduce this step for each of them.
 
 {% highlight bash %}
 # client side
 $> cat ~/.ssh/id_rsa.pub | ssh bill@xxx.xxx.xxx.xxx 'cat - >> ~/.ssh/authorized_keys'
 {% endhighlight %}
 
-### Update rights for user to use you public key
+### Update rights for user to use your public key
 
 Change the permissions of the ```authorized_keys```:
 

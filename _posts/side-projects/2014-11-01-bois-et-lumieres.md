@@ -18,7 +18,7 @@ tags:
 
 I have built this website for a very good friend of mine.
 
-He is probably the most conscientious craftsman I ever met, he fully deserved my help to promote his great work.
+He is probably the most conscientious craftsman I have ever met so he fully deserved my help to promote his great work.
 
 
 ![boislumieres]({{ base.url }}/images/boislumieres.png)

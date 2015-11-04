@@ -10,8 +10,8 @@ permalink: /resume/
 
 ### Senior R&D engineer : 2010 - now
 
-Working in a fast paced environment and producing a high volume of applications. Polyglot web developer, I am 
-responsible for developing high skilled applications with agility, dealing both with big consortia and a small technical 
+Working in a fast-paced environment and producing a high volume of applications. Polyglot web developer, I am
+responsible for developing high skilled applications with agility, dealing both with big consortia and a small technical
 team.
 
 ### R&D engineer : 2006 - 2010
@@ -20,10 +20,10 @@ Involvement as a technical solution provider in several EC funded R&D projects a
 
 ## Open source software
 
-### Author, member, contributor : 2004 - now 
+### Author, member, contributor : 2004 - now
 
-I've always pushed myself in personal projects and open source applications. Since 2010, I am a member of the 
-[Woko framework](http://www.pojosontheweb.com), a full stack web framework for Java/JEE applications. 
+I've always pushed myself in personal projects and open source applications. Since 2010, I am a member of the
+[Woko framework](http://www.pojosontheweb.com), a full stack web framework for Java/JEE applications.
 More information is available on my [GitHub page](https://www.github.com/boissonnat).
 
 ## Nice-Sophia Antipolis University
@@ -36,21 +36,21 @@ POO and IHM teacher in Licence MIAGE, 110 hours per year.
 
 ## MIAGE : 2003 - 2006
 
-### Nice-Sophia Antipolis University 
+### Nice-Sophia Antipolis University
 
-Master degree in software engineering and management
+Master's Degree in software engineering and management
 
-## IUT : 2001 - 2003 
+## IUT : 2001 - 2003
 
 ### Nice-Sophia Antipolis University
 
-Two years Technical degree in Computer Science
+Two-year Technical Degree in Computer Science
 
 # <i class="fa fa-wifi"></i> Technology radar
 
-- Languages & Frameworks: 
+- Languages & Frameworks:
     * [Ruby](/tags/ruby), [Ruby on Rails](/tags/ruby-on-rails)
-    * [Java](/tags/java), [JEE](/tags/jee), [Groovy](/tags/groovy), [Spring](/tags/spring), [Hibernate](/tags/hibernate), [Stripes](/tags/stripes), [Woko](/tags/woko), [Junit](/tags/junit), [Findr](/tags/findr) 
+    * [Java](/tags/java), [JEE](/tags/jee), [Groovy](/tags/groovy), [Spring](/tags/spring), [Hibernate](/tags/hibernate), [Stripes](/tags/stripes), [Woko](/tags/woko), [Junit](/tags/junit), [Findr](/tags/findr)
     * [Javascript](/tags/javascript), [NodeJS](/tags/nodejs), [Jquery](/tags/jquery), [AngularJs](/tags/angularjs), [ReactJS](/tags/reactjs)
     * [Less](/tags/less), [Sass](/tags/sass), [CSS](/tags/css), [Bootstrap](/tags/bootstrap), [Foundation](/tags/foundation)
 

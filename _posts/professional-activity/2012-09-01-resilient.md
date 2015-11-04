@@ -2,10 +2,10 @@
 layout: post
 title:  "Resilient"
 date: 2012-09-01
-subtitle: "Districts' energy trading optimization"
+subtitle: "District energy trading optimization"
 duration: "Sept 2012 - Nov 2015"
 category: professional-activity
-tags: 
+tags:
 - java
 - jee
 - spring
@@ -24,14 +24,11 @@ tags:
 
 ---
 
-The RESILIENT project aims to design, develop, install and assess the energy and environmental benefits of a new 
-integrated concept of interconnectivity between buildings, DER, grids and other networks at a district level. 
-The RESILIENT approach will combine different innovative technologies including smart ICT components, optimized 
-energy generation and storage technologies, also for RES, integrated to provide real time accounts of energy demand 
-and supply at a district level and assist in decision-making process.
+The RESILIENT project aims at designing, developing, installing and assessing the energy and environmental benefits of a new integrated concept of interconnectivity between buildings, DER, grids and other networks at a district level. The RESILIENT approach will combine different innovative technologies including smart ICT components, optimized energy generation and storage technologies, also for RES, integrated to provide real time view  of energy demand and supply at a district level and support decision-making processes.
 
-My team at CSTB was in charge of the platform integration. I built a n-tiers architecture based on REST web services to
-allow communication between the different involved software plus a networks optimization engine based on genetic algorithms.
+My team at CSTB was in charge of the platform integration. I built a n-tiers architecture based on REST web services to allow communication between the different softwares involved plus a network optimization engine based on genetic algorithms.
+
+
 
 ### Resources
 

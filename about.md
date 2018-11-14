@@ -7,13 +7,10 @@ permalink: /about/
 # About
 
 ## I'm a Full-stack web developer
+Developer by passion with specific skills in client-server applications, and distributed architectures. Engaged throughout the whole software development cycle, providing efficient solutions in software design and implementation with constant focus on user satisfaction.
 
-Developer by passion with specific skills in client-server applications and a strong background in
-software engineering in general. Engaged throughout the whole software development process, constantly focusing on
-the user's satisfaction by providing efficient solutions in software design and implementation.
+Currently involved as technical leader, in an innovative EdTech company, I am looking for a challenging position in high-skilled development team, offering opportunities for career advancement.
 
-Currently involved, as technical leader, in several projects and consultancy activities, I am looking for a
-challenging position in an Agile development team, highly motivated and offering opportunities for career advancement.
 
 ## About this website
 

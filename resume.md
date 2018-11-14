@@ -16,9 +16,7 @@ We are building an innovative Learning Management System based on adaptive learn
 
 ### Senior R&D engineer : 2010 - 2016
 
-Working in a fast-paced environment and producing a high volume of applications. Polyglot web developer, I am
-responsible for developing high skilled applications with agility, dealing both with big consortia and a small technical
-team.
+Working in a fast-paced environment and producing a high volume of applications. Polyglot web developer, I am responsible for developing high skilled applications with agility, dealing both with big consortia and a small technical team.
 
 ### R&D engineer : 2006 - 2010
 

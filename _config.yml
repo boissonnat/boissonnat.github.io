@@ -3,7 +3,6 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:categories/:title
-relative_permalinks: true
 
 # Setup
 baseurl:             ""

@@ -6,9 +6,15 @@ permalink: /resume/
 
 # <i class="fa fa-suitcase"></i> Experience
 
+## Educlever
+
+### Senior software engineer : 2016 - now
+
+We are building an innovative Learning Management System based on adaptive learning. As a technical leader in a development team of 8 persons, I am responsible of designing distributed APIs, building frontend web applications and delivering everything in a scalable infrastructure, from the architecture to the technical reviews.
+
 ## CSTB
 
-### Senior R&D engineer : 2010 - now
+### Senior R&D engineer : 2010 - 2016
 
 Working in a fast-paced environment and producing a high volume of applications. Polyglot web developer, I am
 responsible for developing high skilled applications with agility, dealing both with big consortia and a small technical
